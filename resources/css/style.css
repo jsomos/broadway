@@ -1,0 +1,28 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process {
+  font-size: 32px;
+}
+
+.newyork {
+  color: white;
+  background-image: url('./resources/the-flatiron-buidling.png');
+}
+
+p {
+  font-size: 14px;
+}
